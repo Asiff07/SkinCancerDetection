@@ -1,0 +1,14 @@
+# Ignore Python environment
+venv/
+__pycache__/
+
+# Ignore dataset or model if needed
+*.h5
+*.keras
+*.csv
+*.zip
+dataset/
+
+# Ignore OS/IDE files
+.DS_Store
+*.pyc
